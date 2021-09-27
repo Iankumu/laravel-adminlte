@@ -15,7 +15,7 @@ $ cp.env.example .env
 $ composer install
 $ php artisan key:generate
 $ php artisan migrate
-$ npm run install
+$ npm install
 $ npm run dev
 $ php artisan serve
 ```
